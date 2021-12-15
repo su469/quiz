@@ -1,0 +1,213 @@
+{
+    "questions":[
+        {
+            "questionText":"which of the fallowing does Typescript use to specify types?",
+            "options":[
+                {
+                    "text":":",
+                "correct":true               
+             },
+             {
+                 "text":";"
+
+             },
+             {
+                "text":"!"
+
+            },
+            {
+                "text":"&"
+
+            }
+            ],
+            "explanation":"TS uers a colon (:) to saparate the property name from the property type"
+        },
+        {
+            "questionText":"Does TypeScript support all object oriented principles?",
+            "options":[
+                {
+                    "text":"yes",
+                "correct":true               
+             },
+             {
+                 "text":"No"
+
+             },
+             {
+                "text":"Not all"
+
+            },
+            {
+                "text":"None of This"
+
+            }
+            ],
+            "explanation":"TypeScript can implement all four of them with its smaller and cleaner syntax."
+        },
+        {
+            "questionText":"What is a TypeScript Map file?",
+            "options":[
+                {
+                    "text":"Map()"
+                          
+             },
+             {
+                 "text":".Map",
+                 "correct":true 
+             },
+             {
+                "text":"Map."
+
+            },
+            {
+                "text":"All of the above"
+
+            }
+            ],
+            "explanation":"Map  files are source map files that let tools map between the emitted JavaScript code and the TypeScript source files that created it. Many debuggers "
+        },
+        {
+            "questionText":" What are different components of TypeScript?",
+            "options":[
+                {
+                    "text":"2"
+                               
+             },
+             {
+                 "text":"4"
+
+             },
+             {
+                "text":"3",
+            "correct":true               
+         },
+            {
+                "text":"5"
+
+            }
+            ],
+            "explanation":"Language ,Compiler ,Language Service."
+        },
+        {
+            "questionText":"what is method we can update the data",
+            "options":[
+                {
+                    "text":"post"
+                              
+             },
+             {
+                 "text":"put",
+                 "correct":true
+
+             },
+             {
+                "text":"get"
+
+            },
+            {
+                "text":"delete"
+
+            }
+            ],
+            "explanation":"put method is used to update the data"
+        },
+        {
+            "questionText":"How do you install TypeScript?",
+            "options":[
+                {
+                    "text":"npm install -g typescript",
+                "correct":true               
+             },
+             {
+                 "text":"npm install  typescript"
+
+             },
+             {
+                "text":"npm i"
+
+            },
+            {
+                "text":"None of This"
+
+            }
+            ],
+            "explanation":"typescipt install use this."
+        },
+        {
+            "questionText":"what is the current stable version available? ",
+            "options":[
+                {
+                    "text":"4.5.1"
+                    
+             },
+             {
+                 "text":"4.5.2",
+                  "correct":true     
+
+             },
+             {
+                "text":"4.6.2"
+
+            },
+            {
+                "text":"4.5.7"
+
+            }
+            ],
+            "explanation":"TypeScript version changed evry 3 months"
+        },
+        {
+            "questionText":"What are the access modifiers supported by TypeScript? ",
+            "options":[
+                {
+                    "text":"3",
+                "correct":true               
+             },
+             {
+                 "text":"1"
+
+             },
+             {
+                "text":"5"
+
+            },
+            {
+                "text":"4"
+
+            }
+            ],
+            "explanation":"TypeScript modifiers as public ,protected,private."
+        },
+        {
+            "questionText":"What Are The Benefits Of Typescript? ",
+            "options":[
+                {
+                    "text":"Impose coding guidelines."
+                           
+             },
+             {
+                 "text":"Offers type checking."
+
+             },
+             {
+                "text":"It helps in code structuring."
+
+            },
+            {
+                "text":"All of the above.",
+                "correct":true
+
+            }
+            ],
+            "explanation":"TypeScript can implement all four of them ."
+        }
+
+
+
+
+
+
+
+
+    ]
+}

@@ -1,0 +1,28 @@
+.head{
+    margin-left: 700px;
+}
+.score{
+    margin-left: 30px;
+}
+.remaing-question{
+    margin-left: 370px;
+}
+.time{
+    margin-left: 330px;
+}
+.card{
+   max-width: 100%;
+   margin: 0px;
+   padding: 10px;
+}
+li{
+    list-style-type: none;
+    cursor: pointer;
+    margin: 10px;
+}
+li .card:hover{
+    border: 1px  solid  cornflowerblue;
+}
+li{
+    padding: 0px;
+}
